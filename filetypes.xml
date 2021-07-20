@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="asdf.js" type="PLAIN_TEXT" />
       <mapping pattern=".tslintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="validations" type="PLAIN_TEXT" />
       <mapping ext="qgl" type="PLAIN_TEXT" />
