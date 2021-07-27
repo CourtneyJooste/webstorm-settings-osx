@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="asdf.js" type="PLAIN_TEXT" />
+      <mapping pattern=".bitmap" type="PLAIN_TEXT" />
       <mapping pattern=".tslintignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
