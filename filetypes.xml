@@ -8,6 +8,7 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="validations" type="PLAIN_TEXT" />
       <mapping ext="qgl" type="PLAIN_TEXT" />
+      <mapping pattern="IconItem" type="TypeScript" />
       <mapping pattern="asdf" type="TypeScript" />
     </extensionMap>
   </component>
