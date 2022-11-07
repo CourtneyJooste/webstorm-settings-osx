@@ -1,13 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".bitmap" type="PLAIN_TEXT" />
-      <mapping pattern="validations" type="PLAIN_TEXT" />
       <mapping pattern="asdf.js" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".bitmap" type="PLAIN_TEXT" />
       <mapping pattern=".tslintignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern="validations" type="PLAIN_TEXT" />
       <mapping ext="qgl" type="PLAIN_TEXT" />
       <mapping pattern="IconItem" type="TypeScript" />
       <mapping pattern="asdf" type="TypeScript" />
