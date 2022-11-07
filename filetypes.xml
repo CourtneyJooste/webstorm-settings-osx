@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="0_create-service-account.sh" type="AUTO_DETECTED" />
       <mapping pattern=".bitmap" type="PLAIN_TEXT" />
       <mapping pattern="validations" type="PLAIN_TEXT" />
       <mapping pattern="asdf.js" type="PLAIN_TEXT" />
